@@ -1,17 +1,6 @@
 {
   "title": "huangxd's Widgets",
-  "description": "【30% off code：CHEAP】A collection of widgets created by huangxd",
-  "icon": "https://github.com/huangxd-/ForwardWidgets/raw/main/icon.png",
   "widgets": [
-    {
-      "id": "nsfw.91porn"",
-      "title": "91Porn",
-      "description": "🔞 91Porn 视频搜索",
-      "requiredVersion": "0.0.1",
-      "version": "widgetVersion",
-      "author": "匿名",
-      "url": "https://raw.githubusercontent.com/GXJ8220/ForwardWidgets/refs/heads/main/widgets/91porn.ts"
-    },
     {
       "id": "forward.auto.danmu_api",
       "title": "danmu_api",
